@@ -1,0 +1,20 @@
+=== INFORME ===
+Fecha y hora de generacion: 2026-06-30
+Socios registrados: 20
+Libros registrados: 20
+Libros disponibles: 16
+
+===Prestamos activos ===
+
+ID: 1
+Socio: Nicolas Diaz 28777111
+Libro: Cien anios de soledad
+Fecha prestamo: 2026-06-30
+Estado: Activo
+---------------------------------------------
+ID: 2
+Socio: Nicolas Diaz 28777111
+Libro: Ficciones
+Fecha prestamo: 2026-06-30
+Estado: Activo
+---------------------------------------------
